@@ -1,2 +1,2 @@
 # demo-git
-![](me.png)
+![](crabby.png)
